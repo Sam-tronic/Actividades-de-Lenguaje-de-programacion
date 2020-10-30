@@ -1,5 +1,5 @@
-//Elaborado por; Samuel Meléndez Bonilla
-//En este programa se calcula la corriente eléctrica y el voltaje en cada resistencia
+//Elaborado por; Samuel MelÃ©ndez Bonilla
+//En este programa se calcula la corriente elÃ©ctrica y el voltaje en cada resistencia
 //Creado el 27/09/2020
 #include <stdio.h>
 
