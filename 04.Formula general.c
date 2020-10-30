@@ -5,7 +5,7 @@ int main()
 {
     double A,B,C,x1,x2,Disc;
 
-    printf("Resolucion de la ecuación AX2 + B + C=0 \n");
+    printf("Resolucion de la ecuaciÃ³n AX2 + B + C=0 \n");
     printf("\n Escribe los valores de A, B, C\n");
     printf("A=");
     scanf("%lf",&A);
