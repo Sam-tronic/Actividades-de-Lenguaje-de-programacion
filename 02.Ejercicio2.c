@@ -1,4 +1,4 @@
-//Elaborado por; Samuel Meléndez Bonilla
+//Elaborado por; Samuel MelÃ©ndez Bonilla
 //En este programa se calcula la resistencia para cada led
 //Creado el 27/09/2020
 #include <stdio.h>
